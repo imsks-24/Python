@@ -1,0 +1,5 @@
+This is data regarding file handling.
+How file handling works.
+This is an txt file.
+
+Let's learn File handling.
